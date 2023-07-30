@@ -3,7 +3,7 @@
 
 Github Repository for [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) colab notebook implementation
 
-[](https://colab.research.google.com/github.com/Carzit/kohya-trainer/blob/main/Kohya%20Trainer%20XL%20Runpod.ipynb)
+[![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github.com/Carzit/kohya-trainer/blob/main/Kohya%20Trainer%20XL%20Runpod.ipynb)
 | Notebook Name | Description | Link | V14 |
 | --- | --- | --- | --- |
 | [Kohya LoRA Dreambooth](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb) | LoRA Training (Dreambooth method) | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-LoRA-dreambooth.ipynb) | 
